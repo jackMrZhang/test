@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b4978240-0d0d-4c3c-992b-9d72347ce428" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+<<<<<<< Updated upstream
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+=======
+>>>>>>> Stashed changes
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -204,12 +207,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510821754035</updated>
+<<<<<<< Updated upstream
       <workItem from="1510821755217" duration="2724000" />
+=======
+      <workItem from="1510821755217" duration="3534000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="2724000" />
+=======
+    <option name="totallyTimeSpent" value="3534000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
